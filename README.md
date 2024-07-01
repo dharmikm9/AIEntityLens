@@ -42,7 +42,9 @@ AIEntityLens is a Streamlit-based application for extracting Named Entity Recogn
 - View the extracted entities categorized by type (e.g., persons, organizations).
 
 ## Demo
-
+https://raw.githubusercontent.com/dharmikm9/AIEntityLens/master/screenshots/homepage.jpg
+https://raw.githubusercontent.com/dharmikm9/AIEntityLens/master/screenshots/ner_page.jpg
+https://raw.githubusercontent.com/dharmikm9/AIEntityLens/master/screenshots/extracted_entities.jpg
 ## Contributing
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
