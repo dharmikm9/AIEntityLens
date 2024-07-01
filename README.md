@@ -1,6 +1,6 @@
 # AIEntityLens
 
-AIEntityLens is a Streamlit-based application for extracting Named Entity Recognition (NER) entities from provided text inputs. It leverages NLP models to identify and categorize entities such as persons, organizations, locations, dates, and more.
+AIEntityLens is a Streamlit-based application for extracting Named Entity Recognition (NER) entities from provided text inputs. It leverages NLP models to identify and categorize entities such as persons, organizations, and locations.
 
 ## Features
 
